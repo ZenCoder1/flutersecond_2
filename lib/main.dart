@@ -55,7 +55,7 @@ class _TodoHomePageState extends State<TodoHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Todo App_by@HImanshu'),
+        title: Text('Todo App_by@HImanshu1'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(8.0),
